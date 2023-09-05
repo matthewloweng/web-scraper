@@ -1,0 +1,5 @@
+portal = 'emp'
+code = 'CODE'
+username = 'USERNAME'
+password = 'PASSWORD'
+calendar = 'CALENDAR_ID'
