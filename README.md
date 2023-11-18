@@ -23,7 +23,7 @@ This Python-based tool scrapes work shift data from ScheduleSource using Beautif
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/schedulesource-shift-scraper.git
+   git clone https://github.com/mloweng/web-scraper
 
    ```
 
