@@ -1,5 +1,8 @@
 # ScheduleSource Shift Scraper
 
+## Demo Link:
+https://youtu.be/jeZfpE6beEM
+
 ## Overview
 
 This Python-based tool scrapes work shift data from ScheduleSource using BeautifulSoup4 and automatically populates the events into Google Calendar. It also generates an ICS file, making it easy to import your shifts into other calendar applications like Outlook or Apple Calendar.
